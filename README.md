@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="SCAMSHIELD Logo" width="160" />
+  <img src="assets/scamshield.png" alt="SCAMSHIELD Logo" width="160" />
   <h1>SCAMSHIELD</h1>
   <p><strong>Community-Driven Digital Fraud Reporting & Verification System</strong></p>
 
